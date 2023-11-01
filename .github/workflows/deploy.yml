@@ -75,6 +75,8 @@ jobs:
         # Requires the build job results
         needs: test
         runs-on: ubuntu-latest
+        permissions:
+          id-token: write
         steps:
             - name: Download artifact
               uses: actions/download-artifact@v3
