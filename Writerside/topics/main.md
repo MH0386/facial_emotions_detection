@@ -1,4 +1,4 @@
-# Facial Emotion Detection
+# Facial Emotions Detection
 
 Facial Emotion Detection using Convolutional Neural Networks (CNN) for detecting emotions in images.
 
