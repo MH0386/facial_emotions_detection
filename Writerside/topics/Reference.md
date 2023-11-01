@@ -6,6 +6,7 @@
 * [researchgate.net/figure/Sample-images-from-Georgia-Tech-Face-Database_fig3_47619646](https://www.researchgate.net/figure/Sample-images-from-Georgia-Tech-Face-Database_fig3_47619646)
 * [researchgate.net/publication/339170608_Face_Recognition_with_Convolutional_Neural_Network_and_Transfer_Learning](https://www.researchgate.net/publication/339170608_Face_Recognition_with_Convolutional_Neural_Network_and_Transfer_Learning)
 * [researchgate.net/publication/338370459_Transfer_Learning_of_a_Neural_Network_Using_Deep_Learning_to_Perform_Face_Recognition](https://www.researchgate.net/publication/338370459_Transfer_Learning_of_a_Neural_Network_Using_Deep_Learning_to_Perform_Face_Recognition)
+* [researchgate.net/publication/350991629_Masked_Face_Recognition_using_ResNet-50](https://www.researchgate.net/publication/350991629_Masked_Face_Recognition_using_ResNet-50)
 * [kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/msambare/fer2013)
 * [semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842](https://www.semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842)
 * [semanticscholar.org/paper/9766705c7b3622fe33381d01c7b5c5591b76556f](https://www.semanticscholar.org/paper/9766705c7b3622fe33381d01c7b5c5591b76556f)
