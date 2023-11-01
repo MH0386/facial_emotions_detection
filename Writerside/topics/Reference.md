@@ -1,6 +1,5 @@
 # Reference
 
-* [semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842](https://www.semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842)
 * [mdpi.com/1999-5903/13/7/164](https://www.mdpi.com/1999-5903/13/7/164)
 * [link.springer.com/chapter/10.1007/978-3-642-21747-0_56](https://link.springer.com/chapter/10.1007/978-3-642-21747-0_56)
 * [gtav.upc.edu/en/research-areas/face-database](https://gtav.upc.edu/en/research-areas/face-database)
@@ -8,6 +7,7 @@
 * [researchgate.net/publication/339170608_Face_Recognition_with_Convolutional_Neural_Network_and_Transfer_Learning](https://www.researchgate.net/publication/339170608_Face_Recognition_with_Convolutional_Neural_Network_and_Transfer_Learning)
 * [researchgate.net/publication/338370459_Transfer_Learning_of_a_Neural_Network_Using_Deep_Learning_to_Perform_Face_Recognition](https://www.researchgate.net/publication/338370459_Transfer_Learning_of_a_Neural_Network_Using_Deep_Learning_to_Perform_Face_Recognition)
 * [kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/msambare/fer2013)
+* [semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842](https://www.semanticscholar.org/reader/de0cf64dbd49ecd26d67a5d8bee24cb34ae3b842)
 * [semanticscholar.org/paper/38fd2794653e3f971507375573be4e2045d5cbae](https://www.semanticscholar.org/paper/38fd2794653e3f971507375573be4e2045d5cbae)
 * [semanticscholar.org/paper/9766705c7b3622fe33381d01c7b5c5591b76556f](https://www.semanticscholar.org/paper/9766705c7b3622fe33381d01c7b5c5591b76556f)
 * [semanticscholar.org/paper/1ff1f79fa15cc59ce4ba839838d6551c4bc09cc2](https://www.semanticscholar.org/paper/1ff1f79fa15cc59ce4ba839838d6551c4bc09cc2)
