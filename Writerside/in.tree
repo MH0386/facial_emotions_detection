@@ -6,6 +6,8 @@
                   name="Facial Emotions Detection" start-page="main.md">
 
     <toc-element topic="main.md">
+        <toc-element topic="Data-Description.md"/>
+        <toc-element topic="Related-Work.md"/>
         <toc-element topic="Introduction.md"/>
     </toc-element>
 </instance-profile>
