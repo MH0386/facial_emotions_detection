@@ -7,7 +7,7 @@ that has gained immense success in various areas of implementation,
 such as classification,
 recommendation models, object recognition,
 etc. Facial emotion detection and recognition are important aspects of human-computer interaction.
-Identifying various emotions is sometimes a difficult job
+Identifying various emotions is sometimes a challenging job
 as no specified prototype or framework is there to differentiate the various kinds of sentiments,
 and there are also various complications while recognizing the facial emotion expression.
 Machine learning techniques, deep learning, and neural network algorithms are used for emotion recognition.
@@ -22,7 +22,7 @@ Here are some of the benefits of using CNN for facial emotion detection:
 * It can be used to improve security by identifying and tracking potential threats.
 * It can be used to improve marketing by targeting ads at people most likely to be interested in them.
 * It can be used to improve education by providing feedback to students on their emotional state during learning activities.
-* It can be used to improve healthcare by providing early detection of mental health conditions.
+* It can be used to improve healthcare by providing early detection of rude health conditions.
 
 Overall, facial emotion detection using CNN is a powerful tool that can be used in a variety of applications.
 
