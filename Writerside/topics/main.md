@@ -1,4 +1,4 @@
-# Facial Emotions Detection
+# Facial Emotion Detection
 
 Facial Emotion Detection using Convolutional Neural Networks (CNNs) for detecting emotions in images.
 
@@ -6,3 +6,7 @@ Facial Emotion Detection using Convolutional Neural Networks (CNNs) for detectin
 * [Mohamed Hisham](https://github.com/MH0386)
 * [Abdelrahman Mostafa](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed)
 * [Abdelrahman Amin](https://github.com/Abdelrahman-Amen)
+
+### Links
+* [GitHub Repo](https://github.com/MH0386/facial_emotions_detection)
+* [Kaggle Dataset](https://kaggle.com/code/mh0386/facial-emotions-detection)
