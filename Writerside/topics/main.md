@@ -1,5 +1,6 @@
 # Facial Emotion Detection
 
+
 ## Introduction
 
 Emotions are fundamental to human communication and interaction. They play a pivotal role in conveying one's feelings, intentions, and responses in social contexts. Recognizing and understanding these emotional cues from facial expressions has been a long-standing pursuit in psychology, neuroscience, and computer science. In recent years, advancements in computer vision and machine learning have made it possible to automate this process with high accuracy, opening up a multitude of practical applications.
