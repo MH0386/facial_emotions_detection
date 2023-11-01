@@ -13,3 +13,5 @@
 * [semanticscholar.org/paper/460862741e1a69c5a9a1002d25e5b2d55c87b7e4](https://www.semanticscholar.org/paper/460862741e1a69c5a9a1002d25e5b2d55c87b7e4)
 * [semanticscholar.org/paper/0cdab4b394ada6d84eb4696f2485aff888b950b1](https://www.semanticscholar.org/paper/0cdab4b394ada6d84eb4696f2485aff888b950b1)
 * [semanticscholar.org/paper/5e786e11846f02a361aacc8e568d248f7c9db071](https://www.semanticscholar.org/paper/5e786e11846f02a361aacc8e568d248f7c9db071)
+* [ijiet.com/wp-content/uploads/2019/08/18.pdf](https://ijiet.com/wp-content/uploads/2019/08/18.pdf)
+* [proceedings.neurips.cc/paper_files/paper/1998/file/a2cc63e065705fe938a4dda49092966f-Paper.pdf](https://proceedings.neurips.cc/paper_files/paper/1998/file/a2cc63e065705fe938a4dda49092966f-Paper.pdf)
