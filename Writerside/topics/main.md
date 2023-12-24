@@ -5,7 +5,6 @@ Facial Emotion Detection using Convolutional Neural Networks (CNNs) for detectin
 ### Team Members
 * [Mohamed Hisham](https://github.com/MH0386)
 * [Abdelrahman Mostafa](https://github.com/Eng-Abdelrahman-Mostafa-Mohamed)
-* [Abdelrahman Amin](https://github.com/Abdelrahman-Amen)
 
 ### Links
 * [GitHub Repo](https://github.com/MH0386/facial_emotions_detection)
