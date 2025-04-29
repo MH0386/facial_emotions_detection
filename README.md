@@ -1,6 +1,6 @@
 # Facial Emotion Detection
 
-Facial Emotion Detection with TensorFlow. For details, click [here](https://mh0386.github.io/facial_emotions_detection).
+Facial Emotion Detection with TensorFlow.
 
 ### Team Members
 * [Mohamed Hisham](https://github.com/MH0386)
